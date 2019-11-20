@@ -1,0 +1,247 @@
+
+.requestContainer{
+  border: 1px solid lightcoral;
+	width: 500px;
+	height: 0 auto;
+	text-align: center;
+	background: lightcoral;
+	background-size: 100% 100%;
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.requestForm{
+	border: none;
+	padding-top: 50px;
+	margin: 10px;
+	height: 0 auto;
+}
+
+textarea{
+	width: 275px;
+	border-radius: 0px;
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 15px;
+}
+
+.bookUpdateForm{
+	border: 1px solid lightcoral;
+	width: 500px;
+	height: 0 auto;
+	text-align: center;
+	background: lightcoral;
+	background-size: 100% 100%;
+	background-color: rgeba(52, 73, 94, 0.7);
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;	
+	padding-top: 50px;
+}
+
+.addBookForm{
+	border: none;
+	width: 500px;
+	height: 0 auto;
+	text-align: center;
+	background: lightcoral;
+	background-size: 100% 100%;
+	background-color: rgeba(52, 73, 94, 0.7);
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;	
+	padding-top: 50px;
+}
+
+.updatearea{
+	border: none;
+	width: 520px;
+	height: 0 auto;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.updateForm{
+	border: none;
+	width: 500px;
+	height: 0 auto;
+	text-align: center;
+	background: lightcoral;
+	background-size: 100% 100%;
+	background-color: rgeba(52, 73, 94, 0.7);
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;	
+	padding-top: 50px;
+}
+
+.updateFormList select{
+	width: 300px;
+	height: 40px;
+	padding: 5px;
+	font-size: 15px;
+	text-align: left;
+	float: left;
+	margin-left: 100px;
+	margin-bottom: 20px;
+}
+
+.issueReturn{
+	border: none;
+	width: 0 auto;
+	height: 0 auto;
+	padding: 0px;
+}
+
+.issueReturnForm{
+	border: 1px solid red lightcoral;
+	padding-top: 30px;
+	padding-left: 40px;
+	margin-top: 20px;
+	margin-left: 300px;
+	margin-right: 300px;
+	background: lightcoral;
+	border-radius: 4px;
+}
+
+.issueReturnForm input[type="submit"]{
+	margin-left: 100px;
+}
+
+.addMemberForm{
+	border: dotted;
+	width: 1100px;
+	height: 0 auto;
+	text-align: center;
+	background-size: 100% 100%;
+	background-color: rgeba(52, 73, 94, 0.7);
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 20px;
+	padding-top: 10px;
+	margin-bottom: 50px;
+}
+
+.addform{
+	border: dotted;
+	margin: 10px;
+	width: 1075px;
+	height: 0 auto;
+}
+
+.inputs{
+	border: dotted;
+	padding: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	float: left;
+}
+
+.loginContainer{
+  border: none;
+	width: 500px;
+	height: 300px;
+	text-align: center;
+	background-image: url(../pic/b3.jpg);
+	background-size: 100% 100%;
+	background-color: rgeba(52, 73, 94, 0.7);
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.loginForm{
+	border: none;
+	padding-top: 50px;
+	margin: 10px;
+	height: 240px;
+}
+
+.forgetContainer{
+	border: none;
+	width: 500px;
+	height: 350px;
+	text-align: center;
+	background-image: url(../pic/b3.jpg);
+	background-size: 100% 100%;
+	background-color: rgeba(52, 73, 94, 0.7);
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.forgetForm{
+	border: none;
+	padding-top: 50px;
+	margin: 10px;
+	height: 240px;
+}
+
+.searchForm{
+	width: 550px;
+	border: none;
+	border-radius: 4px;
+	padding: 20px;
+	margin: 20px;
+	margin-left: 350px;
+}
+
+.searchFormList select{
+	width: 200px;
+	height: 40px;
+	margin: 5px;
+	padding: 5px;
+	font-size: 18px;
+	text-align: left;
+	float: left;
+}
+
+.searchFormField{
+  border: none;
+	margin: 5px;
+	padding-left: 5px;
+	margin-top: 5px;
+	margin-left: 20px;
+}
+
+.addMemberFormList select{
+	width: 300px;
+	height: 40px;
+	padding: 5px;
+	font-size: 15px;
+	text-align: left;
+	float: left;
+	margin-left: 100px;
+}
+
+.errorMsg{
+	border: none;
+	float: center;
+	text-align: center;
+	padding: 5px 14px;
+	margin-top: 20px;
+	font-size: 18px;
+	background: #ff9999;
+	color: red;
+}
+
+.forgetPwd,.backToHome{
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+
+.containerDashboard{
+	border: none;
+	width: 0 auto;
+	height: 100px;
+	margin: 0 auto;
+}
+
+.tile{
+	border: none;
+	width: 139px;
+	height: 30px;
+	margin: 20px;
+	padding: 15px;
+	display: block;
+	text-align: center;
+	float: left;
+	background: #1A8DA9;
+}

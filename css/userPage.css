@@ -1,0 +1,98 @@
+
+.userContainer{
+	border: 1px solid blue;
+	border-bottom: none;
+	width: 0 auto;
+	height: 800px;
+	padding: 0px;
+	margin: 5px;
+}
+
+.userWelcome{
+  border: 1px solid red;
+	width: 220px;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	background: red;
+	float: left;
+	margin-top: 10px;
+	margin-left: 2px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
+
+.logout{
+  border: 1px solid red;
+	width: 100px;
+	text-align: center;
+	font-size: 20px;
+	float: right;
+	background: red;
+	margin-top: 10px;
+	margin-right: 2px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
+
+.logout a{
+	color: blanchedalmond;
+}
+
+.userAction{
+  border: none;
+	width: 220px;
+	text-align: left;
+	float: left;
+	margin-top: 74px;
+	margin-left: -225px;
+}
+
+.userContent{
+	border: 1px solid blue;
+	width: 990px;
+	height: 0 auto;
+	float: left;
+	margin-top: 35px;
+	margin-left: 220px;
+	padding-bottom: 30px ;
+}
+
+.userAction a{
+	text-decoration: none;
+	color: white;
+	padding: 0px;
+	padding-right: 20px;
+}
+
+.userAction ul{
+	border: none;
+	width: 200px;
+	padding-left: 0px;
+	margin-left: 12px;
+
+}
+
+.userAction ul li{
+	list-style-type: none;
+	display: block;
+	background: blue;
+	padding: 15px;
+	font-size: 18px;
+	padding-left: 30px;
+	text-align: center;
+	border-bottom: 1px solid #236D7F;
+}
+
+.userAction ul li:hover{
+	background: lightcoral;
+	transition: linear all 0.40s;
+	margin-left: 5px;
+}
+
+.userAction ul li a:hover{
+	color: black;
+}
+

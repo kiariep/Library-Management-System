@@ -1,0 +1,46 @@
+.infoContainer{
+	border: none;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: left;
+}
+
+.bookName{
+	border: none;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-bottom: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.issuingInfo{
+	border: none;
+  margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 10;
+	margin-bottom: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 22px;
+	color: red;
+	text-align: center;
+	background: #ff9999;
+}
+
+.bookInfo{
+	border: none;
+	width: 700px;
+	margin-left: 100px;
+	font-size: 18px;
+}
+
+.label{
+	border: none;
+	float: left;
+	width: 100px;
+	margin-right: 70px;
+	margin-left: 200px;
+	font-size: 20px;
+}  

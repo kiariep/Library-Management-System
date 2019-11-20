@@ -1,0 +1,39 @@
+
+
+.navigation ul{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	margin-left: 20px;
+}
+
+.navigation ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+.navigation ul li{
+	float: left;
+	width: 200px;
+	height: 40px;
+	background-color: black;
+	font-size: 20px;
+	line-height: 40px;
+	line-width: 0 auto;
+	text-align: center;
+	opacity: 0.8;
+	border: 1px solid #285189; 
+}
+
+.navigation ul li a:hover{
+	background-color: orange;
+}
+
+.navigation ul li ul li{
+	display: none;
+}
+
+.navigation ul li:hover ul li{
+	display: block;
+}
